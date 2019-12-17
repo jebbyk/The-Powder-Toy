@@ -1,0 +1,6 @@
+[wrap-file]
+directory = winlibs
+
+source_url = https://trigraph.net/powdertoy/winlibs.zip
+source_filename = winlibs.zip
+source_hash = b5d9aa94e993020542ff0a4178a34615b34e8fb0b0e2949c9364372ea6223e5f
