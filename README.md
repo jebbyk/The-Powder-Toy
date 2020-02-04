@@ -1,6 +1,6 @@
 TET - is a my fork from original TPT. 
 
-TET meens The Electronics Toy.
+TET means The Electronics Toy.
 
 So in this builds I'll focuse on improving simulation speed by reducing other parts of the game (as air simulation or chemical interactions). 
 I'll try to keep supporting to load and save your saves in original TPT server. 
